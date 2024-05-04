@@ -28,19 +28,19 @@ In the United States, the federal government oversees certain affordable housing
 •	How do the spatial distribution and availability of public transportation services vary across different affordable units’ thresholds (30%, 50%, 80%, or 120% of AMI) in Washington DC?
 
 #### Code:
-[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ncsg/ursp688y_sp2024/blob/main/demos/demo02/demo02.ipynb)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/Homie73/DC-Transit-Accesibility/blob/main/Question_1.ipynb)
 
 ### Question 2
 •	How do factors such as distance to transit stops, frequency of transit service, and transit mode availability affect accessibility for households with different income levels?
 
 #### Code:
-[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ncsg/ursp688y_sp2024/blob/main/demos/demo02/demo02.ipynb)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/Homie73/DC-Transit-Accesibility/blob/main/Question_2.ipynb)
 
 ### Question 3
 •	Are there significant disparities in the quality of public transportation services (e.g., reliability, comfort, safety) experienced by households across different income levels?
 
 #### Code:
-[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ncsg/ursp688y_sp2024/blob/main/demos/demo02/demo02.ipynb)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/Homie73/DC-Transit-Accesibility/blob/main/Question_3.ipynb)
 
 ## Methods
 The study will rely purely on secondary data on affordable housing projects in Washington DC that were started or completed in 2015 for the various AMI thresholds for analysis. The data will be manipulated with metro bus route and bus stops to access the distribution of routes and stops around the different AMI threshold projects. Geopanadas will be utilized to process and examine geospatial data, including the location of public transit stops, and routes in the various AMI categories. Network analysis in python will be utilized to calculate proximity and accessibility to the bus routes and stops. A comparative analysis will be done to assess proximity and accessibility among the different affordable AMI thresholds. 
