@@ -34,7 +34,7 @@ In the United States, the federal government oversees certain affordable housing
 •	How do factors such as distance to transit stops, frequency of transit service, and transit mode availability affect accessibility for households with different income levels?
 
 #### Code:
-[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/drive/15owj36GaTs94dxZGFZtzrkM32HX9tlR7?usp=drive_open)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/drive/1-u8jr60prxxgUTZAwQqit546SxI5p3Js#scrollTo=nJobFZafAfrm)
 
 ### Question 3
 •	Are there significant disparities in the quality of public transportation services (e.g., reliability, comfort, safety) experienced by households across different income levels?
