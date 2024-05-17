@@ -24,15 +24,15 @@ In the United States, the federal government oversees certain affordable housing
 
 ## Research Questions
 
-### Question 1
-•	How do the spatial distribution and availability of public transportation services vary across different affordable units’ thresholds (30%, 50%, 60%, or 80% of AMI) in Washington DC?
-
 #### Code:
 [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/drive/1Mjvh-2lFDfGABKqqv35_3ywh3KKxSPTk)
 
+
+### Question 1
+•	How do the spatial distribution and availability of public transportation services vary across different affordable units’ thresholds (30%, 50%, 60%, or 80% of AMI) in Washington DC?
+
 ### Question 2
 •	How do factors such as distance to transit stops, frequency of transit service, and transit mode availability affect accessibility for households with different income levels?
-
 
 ### Question 3
 •	Are there significant disparities in the quality of public transportation services (e.g., reliability, comfort, safety) experienced by households across different income levels?
