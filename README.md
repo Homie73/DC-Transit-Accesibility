@@ -1,4 +1,4 @@
-![routes_train_AMI60](https://github.com/Homie73/DC-Transit-Accesibility/assets/158013501/d75d57d9-3228-43aa-b3e6-008a8edffa69)# Measuring accessibility to public transportation services by low-income residents: the case of Washington DC
+# Measuring accessibility to public transportation services by low-income residents: the case of Washington DC
 **URSP688Y-Final Project**<br>
 **Spring 2024**<br>
 Urban Studies and Planning<br>
@@ -67,7 +67,6 @@ Some of our Visual outputs can be found in our Research Narrative. However, we c
 ![routes_bus_AMI50](https://github.com/Homie73/DC-Transit-Accesibility/assets/158013501/8ed7568c-fc32-43d0-bf0e-92468e8293ef)
 ![routes_bus_AMI30](https://github.com/Homie73/DC-Transit-Accesibility/assets/158013501/aa6bb754-d404-46e1-819c-6a3cb95c7fba)
 ![routes_bus_AMI_all](https://github.com/Homie73/DC-Transit-Accesibility/assets/158013501/7d6bb12d-014a-4f80-bbd9-2913ac35e81d)
-
 
 ## Interactive Web Application
 The final part of our project was to create an interactive platform to publish our findings. To achieve this goal, we used ArcGIS Online's Dashboard and Experience Builder. You can view this application via this [link](https://experience.arcgis.com/experience/1999076bed3b41e1b2c42a0b4fc8dde2) or scan the QR Code below.
