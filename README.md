@@ -18,7 +18,7 @@ John Abu<br>
 [jjabu@umd.edu](jjabu@umd.edu)
 
 ## What is this repository made for?
-We made this repository to publish our Research Narrative, Analysis, Visual Outputs, and Interactive Web Application.
+We made this repository to publish our Research Narrative, Analysis, Visual Outputs, and [Interactive Web Application](https://github.com/Homie73/DC-Transit-Accesibility/blob/main/README.md#interactive-web-application).
 
 ## Research Narrative
 Our Research Narrative, a crucial component of our work, provides a detailed introduction, analysis, and conclusion, offering a comprehensive overview of our research process and findings. This narrative is accessible via this link.
