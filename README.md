@@ -18,10 +18,10 @@ John Abu<br>
 [jjabu@umd.edu](jjabu@umd.edu)
 
 ## What is this repository made for?
-We made this repository to publish our Research Narrative, Analysis, Visual Outputs, and [Interactive Web Application](https://github.com/Homie73/DC-Transit-Accesibility/blob/main/README.md#interactive-web-application).
+We made this repository to publish our Research [Narrative](https://github.com/Homie73/DC-Transit-Accesibility/edit/main/README.md#research-narrative), [Analysis](https://github.com/Homie73/DC-Transit-Accesibility/edit/main/README.md#analysis), [Visual Outputs](https://github.com/Homie73/DC-Transit-Accesibility/blob/main/README.md#visual-outputs), and [Interactive Web Application](https://github.com/Homie73/DC-Transit-Accesibility/blob/main/README.md#interactive-web-application).
 
 ## Research Narrative
-Our Research Narrative, a crucial component of our work, provides a detailed introduction, analysis, and conclusion, offering a comprehensive overview of our research process and findings. This narrative is accessible via this link.
+Our Research Narrative, a crucial component of our work, provides a detailed introduction, analysis, and conclusion, offering a comprehensive overview of our research process and findings. This narrative is accessible via this [link](https://docs.google.com/document/d/1N0fRPCg_811CgfUY2U-75px-Xr4fo8QA/edit?usp=drive_link&ouid=102369061877117594165&rtpof=true&sd=true).
 
 ## Analysis
 Our intricate analysis process involved coding in Python to process multiple Geospatial datasets. We then calculated and found our target variables, exporting the processed datasets as Shapefiles and Data Tables for visualization in third-party programs. You can explore these detailed analyses via the button below.
@@ -30,10 +30,10 @@ Our intricate analysis process involved coding in Python to process multiple Geo
 [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/drive/1Mjvh-2lFDfGABKqqv35_3ywh3KKxSPTk)
 
 ## Visual Outputs
-Some of our Visual outputs can be found in our Research Narrative. However, we created 40+ maps and charts to answer our research questions, which you can view below or download via this link.
+Some of our Visual outputs can be found in our Research Narrative. However, we created 40+ maps and charts to answer our research questions, which you can view or download via this [link](https://drive.google.com/drive/folders/1QlM0FtVWX3KdYZDRvoZBScZKJHNd1KAE?usp=drive_link).
 
 ## Interactive Web Application
-The final part of our project was to create an interactive platform to publish our findings. To achieve this goal, we used ArcGIS Online's Dashboard and Experience Builder. You can view this application via this link.
+The final part of our project was to create an interactive platform to publish our findings. To achieve this goal, we used ArcGIS Online's Dashboard and Experience Builder. You can view this application via this [link](https://experience.arcgis.com/experience/1999076bed3b41e1b2c42a0b4fc8dde2).
 
 ## What's next?
 Even though we found the answers to our research questions, many others were raised during this time. Hence, we decided to keep this research going and publicize this repository and our data to attract other interested researchers.
