@@ -33,7 +33,10 @@ Our intricate analysis process involved coding in Python to process multiple Geo
 Some of our Visual outputs can be found in our Research Narrative. However, we created 40+ maps and charts to answer our research questions, which you can view or download via this [link](https://drive.google.com/drive/folders/1QlM0FtVWX3KdYZDRvoZBScZKJHNd1KAE?usp=drive_link).
 
 ## Interactive Web Application
-The final part of our project was to create an interactive platform to publish our findings. To achieve this goal, we used ArcGIS Online's Dashboard and Experience Builder. You can view this application via this [link](https://experience.arcgis.com/experience/1999076bed3b41e1b2c42a0b4fc8dde2).
+The final part of our project was to create an interactive platform to publish our findings. To achieve this goal, we used ArcGIS Online's Dashboard and Experience Builder. You can view this application via this [link](https://experience.arcgis.com/experience/1999076bed3b41e1b2c42a0b4fc8dde2) or scan the QR Code below.
+
+![Untitled design](https://github.com/Homie73/DC-Transit-Accesibility/assets/158013501/6b164904-2f47-47ec-8b3f-820c98cd4016)
+
 
 ## What's next?
 Even though we found the answers to our research questions, many others were raised during this time. Hence, we decided to keep this research going and publicize this repository and our data to attract other interested researchers.
