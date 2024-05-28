@@ -18,7 +18,7 @@ John Abu<br>
 [jjabu@umd.edu](jjabu@umd.edu)
 
 ## What is this repository made for?
-We made this repository to publish our [Research Narrative](https://github.com/Homie73/DC-Transit-Accesibility/blob/main/README.md#research-narrative), [Analysis](https://github.com/Homie73/DC-Transit-Accesibility/blob/main/README.md#analysis), [Visual Outputs](https://github.com/Homie73/DC-Transit-Accesibility/blob/main/README.md#visual-outputs), and [Interactive Web Application](https://github.com/Homie73/DC-Transit-Accesibility/blob/main/README.md#interactive-web-application).
+We made this repository to publish our [Research Narrative](https://github.com/Homie73/DC-Transit-Accesibility/tree/main?tab=readme-ov-file#research-narrative), [Analysis](https://github.com/Homie73/DC-Transit-Accesibility/tree/main?tab=readme-ov-file#analysis), [Visual Outputs](https://github.com/Homie73/DC-Transit-Accesibility/tree/main?tab=readme-ov-file#visual-outputs), and [Interactive Web Application](https://github.com/Homie73/DC-Transit-Accesibility/tree/main?tab=readme-ov-file#interactive-web-application).
 
 ## Research Narrative
 Our Research Narrative, a crucial component of our work, provides a detailed introduction, analysis, and conclusion, offering a comprehensive overview of our research process and findings. This narrative is accessible via this [link](https://drive.google.com/file/d/1l6-mjO8R3QAOrfg7oaCdAjU58KY27pcO/view?usp=drive_link).
